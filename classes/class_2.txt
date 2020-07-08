@@ -1,0 +1,15 @@
+Class: Refrigerator
+
+attribute:
+
+depth(float)
+contents (hash)
+temperature (integer)
+brand(string)
+
+methods:
+
+increaseSize(increases the depth attribute by 10)
+newItem (adds an item to the end of the contents attribute)
+defrost (increases the temperature by 2)
+newRefrigerator (changes the brand attribute to a different one)
