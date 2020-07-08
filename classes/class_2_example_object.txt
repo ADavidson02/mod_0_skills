@@ -1,0 +1,15 @@
+Instance: KitchenWalkIn
+
+attributes:
+
+depth: 18.2
+contents: {"bread": 2, "pickles": 25,"chicken breast": 9}
+temperature: 32
+brand: "Kitchen aid"
+
+method:
+
+increaseSize: 28.2
+newItem: {"bread": 2, "pickles": 25,"chicken breast": 9,"lemons": 46}
+defrost: 34
+newRefrigerator:"Frigidaire"
