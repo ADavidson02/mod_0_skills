@@ -1,0 +1,9 @@
+var food = "apple";
+var is_delicious = true;
+var food = "candy";
+var num2 = 7;
+var num7 = 2;
+num2 / num7
+var songs = ["Blue Suade Shoes", "Aint't no sunshine", "Bad Boys theme"]
+songs.shift();
+food.length
