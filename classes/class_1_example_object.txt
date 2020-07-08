@@ -1,0 +1,15 @@
+Bigtop
+
+attribute:
+
+numberOfLegs = 4
+material = "plastic"
+seatingCapacity = 6
+seatTable = false
+
+methods:
+
+addLeg = 5
+changeTabletop = "wood"
+pushTogether = 8 (bigtop seatingCapacity 6 + smalltop seatingCapacity 2)
+seatTable = true
