@@ -5,11 +5,11 @@ attributes:
 numberOfLegs (integer)
 material (string)
 seatingCapacity(integer)
-isEmpty(boolean)
+currentlySat (boolean)
 
 methods:
 
 addLeg(adds 1 to numberOfLegs attribute)
 changeTabletop(take the material of the table and changes it)
 pushTogether(uses the seatingCapacity number and adds it to another tables's seatingCapacity number to get a total)
-seatTable(changes isEmpty to false)
+seatTable(changes currentlySat to true)
